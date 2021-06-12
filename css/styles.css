@@ -148,7 +148,7 @@ hr {
   border-radius: 2rem;
   z-index: 2;
   backdrop-filter: blur(2rem);
-  width: 60%;
+  width: 80%;
 }
 
 .bottom-container {
