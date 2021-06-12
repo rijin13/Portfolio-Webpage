@@ -35,24 +35,14 @@ h1 {
 h2 {
   font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
-  /* color: #66bfbf; */
-
   color: #426696;
-  /* font-weight: 500; */
   opacity: 0.8;
-
-  /* font-weight: normal; */
   padding-bottom: 10px;
 }
 
 h3 {
   font-family: "Montserrat", sans-serif;
-  /* color: #11999e; */
-
   color: #426696;
-  /* 
-  font-weight: 500; */
-  /* opacity: 0.8; */
 }
 
 a {
@@ -134,7 +124,6 @@ hr {
 }
 
 .top-container {
-  /* background-color: #e4f9f5; */
   position: relative;
   padding-top: 100px;
 
@@ -163,10 +152,7 @@ hr {
 }
 
 .bottom-container {
-  /* background-color: #66bfbf; */
   padding: 50px 0 20px;
-
-  /* background: white; */
   background: linear-gradient(
     to right bottom,
     rgba(255, 255, 255, 0.7),
@@ -177,25 +163,12 @@ hr {
   backdrop-filter: blur(2rem);
   width: 100%;
 }
-
-/* .top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 40px;
-} */
-
 .top-cloud {
   position: absolute;
   right: 100px;
   opacity: 0.6;
   z-index: 0;
 }
-
-/* .bottom-cloud {
-  position: absolute;
-  left: 700px;
-  bottom: 300px;
-} */
 
 .code-img {
   width: 25%;
